@@ -1,0 +1,1 @@
+Consolo.log("hello minh")
